@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "QHDYvtb79YhdKHABU/JKVWJp6sdM/jjuejuxkwWrHEdti92ji1zsERYbPbgiFQwMKBNOo4vDCKhKWSZGQGgZQg==",
+  "dgSpecHash": "SKzqB1ADILrhPnsTYCBQs8UvROhIy4RfdfTsRNJRnRyx0mSuGqJqdN0onwa+Ajk0EQdDSJBG2xLkuz+p7W+6WQ==",
   "success": true,
-  "projectFilePath": "D:\\LapTrinhMang\\NETWORK_PROGRAMING_SERVER-master\\Server_MultiConnection.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\MSI\\Desktop\\NETWORK_SEVER\\Server_MultiConnection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSI\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

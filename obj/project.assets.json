@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\VuDinhChuyen\\.nuget\\packages\\": {}
+    "C:\\Users\\MSI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LapTrinhMang\\NETWORK_PROGRAMING_SERVER-master\\Server_MultiConnection.csproj",
+      "projectUniqueName": "C:\\Users\\MSI\\Desktop\\NETWORK_SEVER\\Server_MultiConnection.csproj",
       "projectName": "Server_MultiConnection",
-      "projectPath": "D:\\LapTrinhMang\\NETWORK_PROGRAMING_SERVER-master\\Server_MultiConnection.csproj",
-      "packagesPath": "C:\\Users\\VuDinhChuyen\\.nuget\\packages\\",
-      "outputPath": "D:\\LapTrinhMang\\NETWORK_PROGRAMING_SERVER-master\\obj\\",
+      "projectPath": "C:\\Users\\MSI\\Desktop\\NETWORK_SEVER\\Server_MultiConnection.csproj",
+      "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI\\Desktop\\NETWORK_SEVER\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\VuDinhChuyen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -53,12 +53,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.2, 3.1.2]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
       }
     }
   }
